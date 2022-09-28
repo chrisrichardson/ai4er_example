@@ -10,4 +10,6 @@ y3 = y/y2
 plt.plot(x, y)
 plt.plot(x, y2)
 plt.plot(x, y3)
+plt.ylim((-4,4))
+
 plt.show()
